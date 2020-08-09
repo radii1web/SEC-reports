@@ -1,0 +1,11 @@
+Django==3.0.7
+psycopg2==2.8.5
+validators
+argparse
+dnspython
+requests
+djangorestframework
+djangorestframework-datatables
+django-ace
+pyyaml
+django-login-required-middleware
